@@ -3,7 +3,7 @@ mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês co
 (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.) */
 import java.util.Scanner;
 public class IdadeDias {
-  public static void main(String args[]){
+  public static void main(String args[]) {
     int idade, anos, meses, dias;
     Scanner scanner = new Scanner(System.in);
     System.out.print("Insira sua idade em anos: ");
