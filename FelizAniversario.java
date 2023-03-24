@@ -3,7 +3,7 @@
 // Faça um programa que parabenize as crianças quando for o dia do seu aniversario.
 import java.util.Calendar;
 
-public class Main {
+public class FelizAniversario {
   public static void main(String args[]) {
     int mes, dia;
     Calendar data = Calendar.getInstance();
